@@ -110,13 +110,13 @@ frac_part        = temp_scaled % 100;           // fractional °C
 
 ---
 
-## License
-
-[Add your chosen license here, e.g. MIT — see `LICENSE`.]
-
 ## Authors
 
-- [Name 1]
-- [Name 2]
-- [Name 3]
-- [Name 4]
+- MUHAMMAD HARITH HAYKAL BIN
+MOKHTAR
+- IZZAT RAMZAN BIN AKBAR BATCHA
+- MUHAMMAD AMMAR ZIKRY BIN
+ZAIMI
+- MUHAMMAD FIRMAN BIN RAMLI
+- MUHAMMAD IRFAN SYAKIR BIN
+SAMSUDIN
