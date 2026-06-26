@@ -1,2 +1,2 @@
-# temperature_controller_imj32104
+# Smart Thermal Controller
 8051 c code
